@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php require('links.php'); ?>
-    <title> Dashboard </title>
+    <title> Study  </title>
     <style type="text/css">
         @media only screen and (max-width: 800px) {
             .if{
